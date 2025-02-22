@@ -1,0 +1,6 @@
+--[[
+       antioderhub.lol
+       Made by Aftr XD
+]]
+
+loadstring(game:HttpGet("https://antioderhub.lol"))()
